@@ -33,7 +33,7 @@ Above example will train a model using default options from word2vec command lin
 Once you get a model, then just run the following:
 
 ```
-node get-similarities-from --word experiencia --limit 10
+node get-similarities-from --model 01033067.bin --word experiencia
 ```
 
 Results:
