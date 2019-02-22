@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "keyword-extractor": "^0.0.15",
+    "pdf-parse": "^1.1.1",
+    "pdf-to-raw": "^0.0.1",
+    "pdf-to-text": "^0.0.7",
+    "pdfreader": "^1.0.0",
+    "word2vec": "^1.1.4",
+    "yargs": "^13.2.1"
+  },
+  "description": "Just a proof of concept to create word2vec models from pdf content."
+}
