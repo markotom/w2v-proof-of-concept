@@ -44,9 +44,13 @@ Results:
 
 https://code.google.com/archive/p/word2vec/
 
-https://github.com/makcedward/nlp/blob/master/sample/nlp-word_embedding.ipynb
+https://www.quora.com/What-are-the-continuous-bag-of-words-and-skip-gram-architectures
+
+https://iksinc.online/tag/continuous-bag-of-words-cbow/
 
 http://building-babylon.net/2017/08/01/hierarchical-softmax/
+
+https://github.com/makcedward/nlp/blob/master/sample/nlp-word_embedding.ipynb
 
 ## License
 
