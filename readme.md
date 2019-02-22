@@ -22,7 +22,7 @@ First, create a input text from a pdf file:
 node create-input.js --pdfFile 01033067.pdf --txtFile 01033067.txt
 ```
 
-Afterwards, create a model from input text using `word2vec` command line (compiled just for ios):
+Afterwards, create a model from input text using `word2vec` command line (compiled only for MacOS):
 
 ```
 ./word2vec/word2vec -train 01033067.txt -output 01033067.bin -binary 1
