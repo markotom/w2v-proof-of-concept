@@ -30,7 +30,7 @@ Afterwards, create a model from input text using `word2vec` command line (compil
 
 Above example will train a model using default options from word2vec command line, you can play around changing default options. For listing all options, you can just execute this: `./word2vec/word2vec` (without args or flags) on your terminal.
 
-Once you get a model, then just run the following:
+Once you get a pretrained model, then just run the following:
 
 ```
 node get-similarities-from --model 01033067.bin --word experiencia
