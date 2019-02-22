@@ -36,4 +36,8 @@ Once you get a model, then just run the following:
 node get-similarities-from --word experiencia --limit 10
 ```
 
+Results:
+
+![](sample.png?raw=true)
+
 ## MIT
