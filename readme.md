@@ -40,4 +40,12 @@ Results:
 
 ![](sample.png?raw=true)
 
-## MIT
+## References
+
+https://code.google.com/archive/p/word2vec/
+https://github.com/makcedward/nlp/blob/master/sample/nlp-word_embedding.ipynb
+http://building-babylon.net/2017/08/01/hierarchical-softmax/
+
+## License
+
+MIT
