@@ -1,6 +1,6 @@
 # w2v models
 
-Just a proof of concept to create word2vec models from pdf content and get similarities based on word vector distances.
+Just a proof of concept to create word2vec models from pdf content and get word similarities based on vector distances.
 
 ## Install
 
